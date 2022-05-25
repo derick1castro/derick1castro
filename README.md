@@ -1,3 +1,5 @@
+<h1>Olá, eu sou Dérick!</h1>
+<hr>
 <div>
   <a href="https://github.com/derick1castro">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=derick1castro&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
