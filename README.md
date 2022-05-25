@@ -8,8 +8,8 @@
 </div>
 <div align="center">
   <a href="https://github.com/derick1castro">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=derick1castro&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=derick1castro&layout=compact&langs_count=6&theme=tokyonight"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=derick1castro&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=derick1castro&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
 <div align="center" style="display: inline_block"><br>
   <h2>🛠 Tecnologias</h2>
