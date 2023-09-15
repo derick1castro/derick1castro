@@ -3,7 +3,7 @@
   <h2 align="center">Curiosidades sobre mim 👩🏻‍💻 </h2>
   <p> Tenho 27 anos e sou formado em Engenharia Civil. Após ver que não era isso o que eu queria, resolvi me jogar no mundo dos dados e da programação. Sempre gostei muito de tecnologia, então estar aprendendo sobre essa área está sendo muito gratificante. </p>
   <p> 👩🏻‍🎓 Cursando Análise e Desenvolvimento de Sistemas e MBA em Gestão de Projetos e Processos </p>
-  <p> 💻 Foco inicial voltado para o Desenvolvimento Web</p> 
+  <p> 💻 Foco inicial voltado para o Desenvolvimento Web.</p> 
   
 </div>
 <div align="center">
