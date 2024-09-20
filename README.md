@@ -1,9 +1,8 @@
 <h1 align="center">Olá, Sinta-se em casa! Me chamo Dérick!</h1>
 <div>
   <h2 align="center">Curiosidades sobre mim 👩🏻‍💻 </h2>
-  <p> Tenho 27 anos e sou formado em Engenharia Civil. Após ver que não era isso o que eu queria, resolvi me jogar no mundo dos dados e da programação. Sempre gostei muito de tecnologia, então estar aprendendo sobre essa área está sendo muito gratificante. </p>
-  <p> 👩🏻‍🎓 Cursando Análise e Desenvolvimento de Sistemas e MBA em Gestão de Projetos e Processos </p>
-  <p> 💻 Foco inicial voltado para o Desenvolvimento Web. e Área de Dados.</p> 
+  <p> Tenho 28 anos e sou formado em Engenharia Civil, Analise e Desenvolvimento de sistemas e MBA em Gestão de Projetos e Processos, mas encontrei minha verdadeira paixão no mundo dos dados e da programação. Minha transição para essa área foi guiada pelo interesse constante em tecnologia, e estou dedicado a explorar ao máximo as possibilidades desse campo desde então.</p>
+  <p> 💻 Atualmente atuo como cientista de dados com foco em Inteligência Artificial, especialmente em IA generativa. Com experiência também como desenvolvedor full stack, meu objetivo é me aprofundar nos avanços da IA e no universo de dados em geral.</p>
   
 </div>
 <div align="center">
